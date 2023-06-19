@@ -30,7 +30,7 @@ Use Plots and data frame to get the correct portfolio
 ![plot](images/class.png)
 ![plot2](images/data.png)
 ![plot_box](images/info.png)
-![plot_long](imageslr.png)
+![plot_long](images/lr.png)
 
 
 ---
